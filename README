@@ -1,0 +1,3 @@
+In v2, the exchange interaction between two sites i and j are counted twice.
+The problem on the programming side is that we need to loop over the pair
+interaction.

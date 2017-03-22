@@ -1,0 +1,11 @@
+10000  equilibrium steps
+50000  production steps
+1     number of magnetic ions per unit cell
+24 24 24 size of supercell
+6     number of exchange coupling terms in the following
+1 0 0 1 1 -1.0  (3) vector pointing from the home unit cell to its neighboring unit cell, (2) indices of ions, (1) exchange coupling constant (meV)
+0 1 0 1 1 -1.0
+0 0 1 1 1 -1.0
+-1 0 0 1 1 -1.0
+0 -1 0 1 1 -1.0
+0 0 -1 1 1 -1.0
